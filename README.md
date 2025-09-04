@@ -2,9 +2,9 @@
 Interfaces och Types
 
 **Introduktion**
-Interfaces och Types är väldigt lika i sitt utförande och kan lätt förväxlas. Med t.ex. Types så kan man ange ett vilket värde den ska ha:
+Interfaces och Types är väldigt lika i sitt utförande och kan lätt förväxlas. Med t.ex. Types så kan man ange vilket värde den ska ha:
 
-*Exempel
+*Exempel*
 
 type ID = string;  Då säger jag åt den att ID ska bara ta emot strängar.
 type State = "gas" | "fast" | "flytande";  Dessa är en union, flera möjliga types
@@ -16,7 +16,7 @@ type Result = {
 
 Med interfaces kan jag beskriva objektets struktur. Det ser väldigt mycket ut som Types men Interfaces kan utökas.
 
-*Exempel
+*Exempel*
 
 interface Animal {
     name: string;
