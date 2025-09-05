@@ -4,7 +4,7 @@ Daniel: Skillnaden mellan interfaces och types, att på ett tydligt sätt förkl
 
 Hassan: Att förstå hela konceptet med interface i Typescript, alltså varför man behöver definiera en struktur för objekt innan den ska användas.
 
-Maria: Att förstå användningen av 'satisfies' med tanke på att TypeScript readn kan räkna ut typen by default. 
+Maria: Att förstå skillnaden mellan Type och Interface. 
 
 **Feedback från grupp 8**
 
