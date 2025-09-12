@@ -6,5 +6,4 @@ Hassan: Att förstå hela konceptet med interface i Typescript, alltså varför 
 
 Maria: Att förstå skillnaden mellan Type och Interface. 
 
-**Feedback från grupp 8**
 
